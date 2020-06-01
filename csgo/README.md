@@ -4,6 +4,6 @@ put ```autoexec.cfg``` on ```...\Steam\steamapps\common\Counter-Strike Global Of
 
 ## Set aunch options 
 
-```+exec autoexec```
-
 For launch options go to ```Steam => library => Counter-Strike: Global Offensive (right-click) => Properties => Set Launch Options...```
+
+![+exc autoexec]()
